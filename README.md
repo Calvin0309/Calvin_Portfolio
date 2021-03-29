@@ -2,7 +2,9 @@
 - 👋 Hi, I’m @Calvin0309 , a 20 years old ambitious youth
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning statistics.
-- 📫 want to reach out to me??  1. Email: lowcheeseng0309@gmail.com 2.IG: calvin_loww01
+- 📫 want to reach out to me??  
+   1. Email: lowcheeseng0309@gmail.com 
+   2. IG: calvin_loww01
 
 # **[Project 1: Breast Cancer classifier: Project Overview](https://github.com/Calvin0309/Project_1_Breast_Cancer)** 
 
